@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T09:30:18.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="wag3QA-pBlRTzC1kLAIt" type="github"><diagram id="B32x1UPWKSl0BjCbGnF7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T09:38:22.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="xrPUHmNVyheNIXqJXVTR" type="github">
+  <diagram id="BqlMYKcsw9e2q4S42ORV" name="第 1 页">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gq5B5mHj4HZL16rWCQwO-10" value="&lt;br&gt;&lt;br&gt;x86服务器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="280" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq5B5mHj4HZL16rWCQwO-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1A1A1A;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq5B5mHj4HZL16rWCQwO-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1A1A1A;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq5B5mHj4HZL16rWCQwO-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1A1A1A;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="290" width="50" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
