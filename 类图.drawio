@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T07:45:12.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ksLYa5WMe9TwK8G8ZEdV" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T08:28:28.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eY8epH2tz8xEepbYgKV8" version="21.6.2" type="github">
   <diagram name="第 1 页" id="Y8m1zG7YkmczJ9cumg8B">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,28 +12,59 @@
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H5pEt3jxYGkT5q6poo7g-1" target="H5pEt3jxYGkT5q6poo7g-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="220" as="sourcePoint" />
+            <mxPoint x="170" y="387" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H5pEt3jxYGkT5q6poo7g-1" target="H5pEt3jxYGkT5q6poo7g-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="150" y="387" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="50" height="80" as="geometry" />
+          <mxGeometry x="80" y="367" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;dashed=1;" edge="1" parent="1" source="H5pEt3jxYGkT5q6poo7g-4" target="H5pEt3jxYGkT5q6poo7g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5pEt3jxYGkT5q6poo7g-18">
+          <mxGeometry x="0.031" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-4" value="节点管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="287" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-7" value="磁盘管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="347" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-8" value="监控管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="467" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H5pEt3jxYGkT5q6poo7g-9" value="块设备资源管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="407" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-14" value="添加节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-15" value="删除节点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-16" value="添加磁盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-17" value="删除磁盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.785;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;dashed=1;" edge="1" parent="1" target="H5pEt3jxYGkT5q6poo7g-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="470" y="182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5pEt3jxYGkT5q6poo7g-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5pEt3jxYGkT5q6poo7g-20">
+          <mxGeometry x="0.031" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
