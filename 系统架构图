@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T19:24:38.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="OJdEe3MRslg84sOy1uBZ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T14:06:11.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4lzU4d2vYxCs7_Qe9qMd" version="22.1.0" type="github">
   <diagram name="第 1 页" id="S6HXbHmpFz6EZ1mJQXdx">
-    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,26 +19,17 @@
         <mxCell id="b-RmoX21ZFBpe6E3jc-7-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/hard_disk.svg;" parent="1" vertex="1">
           <mxGeometry x="584.5" y="292" width="50" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-8" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;.....&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="b-RmoX21ZFBpe6E3jc-7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b-RmoX21ZFBpe6E3jc-7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="130" width="370" height="60" as="geometry" />
+          <mxGeometry x="320" y="130" width="370" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存储服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="210" width="110" height="40" as="geometry" />
+        <mxCell id="b-RmoX21ZFBpe6E3jc-7-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;元数据管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="217.5" width="85" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存储服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="210" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;资源管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="140" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监控管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="140" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b-RmoX21ZFBpe6E3jc-7-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;日志管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="140" width="110" height="40" as="geometry" />
+        <mxCell id="b-RmoX21ZFBpe6E3jc-7-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;节点管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="328" y="134" width="83" height="27" as="geometry" />
         </mxCell>
         <mxCell id="b-RmoX21ZFBpe6E3jc-7-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物理资源层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="288.5" width="80" height="41.5" as="geometry" />
@@ -48,6 +39,39 @@
         </mxCell>
         <mxCell id="b-RmoX21ZFBpe6E3jc-7-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;平台管理层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="138.5" width="80" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用业务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="96" width="370" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;日志管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="164" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;磁盘管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="134" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存储池管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="134" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;存储块管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="134" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监控管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="164" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;访问权限&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="164" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="164" width="83" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据读写&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="217.5" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据分布&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="217.5" width="85" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EHcX5KZhZiV7V2BxIn8M-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;节点通信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="217.5" width="85" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
